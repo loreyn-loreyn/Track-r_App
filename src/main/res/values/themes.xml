@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.Trackr" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/teal_primary</item>
+        <item name="colorPrimaryDark">@color/teal_dark</item>
+        <item name="colorAccent">@color/teal_light</item>
+    </style>
+
+    <style name="Theme.Trackr.Splash" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowBackground">@color/teal_primary</item>
+        <item name="android:statusBarColor">@color/teal_primary</item>
+    </style>
+</resources>
